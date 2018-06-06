@@ -32,5 +32,6 @@
 # class_celeb_crushes.each do |names, crushes|
 # puts "#{names} crush is #{crushes}" 
 # end 
+puts "3".to_f + 3.0
   
   
